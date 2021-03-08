@@ -1,0 +1,21 @@
+# General
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# DataBase
+db.sqlite3
+
+# Editor and IDE
+.idea/
+.ropeproject
+.vscode/
+.settings/
+
+# Virtualenv
+virtualenv/
+
+# Environment
+.env
+media/*
