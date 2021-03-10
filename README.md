@@ -2,6 +2,8 @@
 
 API Django Prueba
 
+Antes de iniciar el proyecto configurar archivo .env dentro de la carpeta helpdesk, basándose en el archivo .env-sample
+
 ## Makefile commands
 
 ```bash
